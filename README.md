@@ -3,17 +3,13 @@
 </div>
 
 <div align="center">
-
 [![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md)
-[![Community](https://img.shields.io/badge/Community-MD%20Base64-22C55E?style=flat-square&logo=obsidian&logoColor=white)](https://community.obsidian.md/plugins/mdbase)
+[![Hadesr](https://img.shields.io/badge/Hadesr-hadesr.com-7C3AED?style=flat-square)](https://www.hadesr.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Hadesls-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hadesls)
 
 </div>
 
-### 嗨，我是 Hadesr
-
-做 Obsidian 插件和一点自动化工具。  
-喜欢把重复动作做成一个按钮，让写作和整理更安静一点。
+### I am Hadesr.
 
 ---
 
@@ -33,7 +29,7 @@
 | 项目 | 说明 |
 |---|---|
 | **[Printer-Monitor](https://github.com/Hadesls/Printer-Monitor)** | 打印机 SNMP 实时监控：墨粉 / 纸张 / 卡纸 / 离线告警，Web 面板集中管理 |
-| **[Autoncm](https://github.com/Hadesls/Autoncm)** | 自动化与运维小工具 |
+| **[Autoncm](https://github.com/Hadesls/Autoncm)** | 网易云 NCM 转 MP3 / FLAC 的图形化工具（Python + Flet） |
 
 ---
 
@@ -44,6 +40,7 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -54,14 +51,6 @@
 
 ---
 
-## 一点数字
-
 <div align="center">
-  <img src="./assets/stats.svg" alt="4 Obsidian plugins, 2 community listings, 7 public repositories" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <sub>写点东西，做点工具。</sub>
+  <sub><a href="https://www.hadesr.com">https://www.hadesr.com</a></sub>
 </div>
