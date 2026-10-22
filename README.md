@@ -2,7 +2,13 @@
   <img src="./assets/banner.svg" alt="Hadesr — Obsidian plugins, tools and automation" width="100%" />
 </div>
 
-<p align="center"><a href="https://obsidian.md"><img src="https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian"></a> <a href="https://www.hadesr.com"><img src="https://img.shields.io/badge/Hadesr-hadesr.com-7C3AED?style=flat-square" alt="Hadesr"></a> <a href="https://github.com/Hadesls"><img src="https://img.shields.io/badge/GitHub-Hadesls-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a></p>
+<div align="center">
+
+[![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md)
+[![Hadesr](https://img.shields.io/badge/Hadesr-hadesr.com-7C3AED?style=flat-square)](https://www.hadesr.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Hadesls-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hadesls)
+
+</div>
 
 ### I am Hadesr.
 
