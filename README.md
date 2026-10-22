@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+
 [![Obsidian](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md)
 [![Hadesr](https://img.shields.io/badge/Hadesr-hadesr.com-7C3AED?style=flat-square)](https://www.hadesr.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Hadesls-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hadesls)
