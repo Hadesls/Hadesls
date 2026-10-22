@@ -54,10 +54,10 @@
 
 ---
 
+## 一点数字
+
 <div align="center">
-
-![Hadesr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hadesls&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&locale=cn)
-
+  <img src="./assets/stats.svg" alt="4 Obsidian plugins, 2 community listings, 7 public repositories" width="100%" />
 </div>
 
 ---
