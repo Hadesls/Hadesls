@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <sub><a href="https://www.hadesr.com">https://www.hadesr.com</a></sub>
+  <sub>https://www.hadesr.com</sub>
 </div>
